@@ -4,3 +4,7 @@
 
 - 🔭 I’m currently working on backend development with Golang as the main technology.
 - 🌱 I’m currently learning DevOps
+
+<p align="center">
+  Check the main open projects below.
+</p>
